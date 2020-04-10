@@ -1,0 +1,6 @@
+mongo/
+conf/
+data/
+import/
+logs/
+plugins/
